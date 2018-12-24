@@ -6,4 +6,4 @@ server:
   port: 12366
 spring:
   application:
-    name: SERVICE-HELLO111
+    name: SERVICE-HELLO

@@ -1,0 +1,11 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:12365/eureka
+server:
+  port: 12367
+spring:
+  cloud:
+    config:
+      server:
+
