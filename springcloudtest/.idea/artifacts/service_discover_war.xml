@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="service-discover:war">
+    <output-path>$PROJECT_DIR$/EurekaServer/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>service-discover</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="service-discover-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="service-discover:war exploded" />
+    </root>
+  </artifact>
+</component>

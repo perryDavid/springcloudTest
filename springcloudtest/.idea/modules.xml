@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/EurekaServer/demo.iml" filepath="$PROJECT_DIR$/EurekaServer/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigClient/servce-config-client.iml" filepath="$PROJECT_DIR$/ConfigClient/servce-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/service-discover.iml" filepath="$PROJECT_DIR$/EurekaServer/service-discover.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaClient/service-hello.iml" filepath="$PROJECT_DIR$/EurekaClient/service-hello.iml" />
     </modules>
   </component>
