@@ -1,2 +1,12 @@
 server:
   port: 12368
+management:
+  server:
+    port: 12368
+  endpoints:
+    web:
+      exposure:
+        include: refresh,health,info
+spring:
+  application:
+    name: config-client

@@ -10,6 +10,8 @@
         <module name="servce-config-client" />
         <module name="service-discover" />
         <module name="service-hello" />
+        <module name="service-helloworld" />
+        <module name="service-ribbon" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +20,8 @@
       <module name="service-config-client" target="1.8" />
       <module name="service-discover" target="1.8" />
       <module name="service-hello" target="1.8" />
+      <module name="service-helloworld" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -27,6 +31,8 @@
       <module name="service-config-client" options="-parameters" />
       <module name="service-discover" options="-parameters" />
       <module name="service-hello" options="-parameters" />
+      <module name="service-helloworld" options="-parameters" />
+      <module name="service-ribbon" options="-parameters" />
     </option>
   </component>
 </project>

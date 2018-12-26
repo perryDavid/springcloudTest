@@ -1,7 +1,14 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:12365/eureka
 spring:
   cloud:
     config:
       label: master
       profile: dev
-      uri: http://localhost:12367/
+   #   uri: http://localhost:12367/
       name: config-client
+      discovery:
+        enabled: true
+        service-id: config-server

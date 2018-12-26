@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/ConfigClient/servce-config-client.iml" filepath="$PROJECT_DIR$/ConfigClient/servce-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer/service-discover.iml" filepath="$PROJECT_DIR$/EurekaServer/service-discover.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaClient/service-hello.iml" filepath="$PROJECT_DIR$/EurekaClient/service-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-helloworld/service-helloworld.iml" filepath="$PROJECT_DIR$/service-helloworld/service-helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
     </modules>
   </component>
 </project>

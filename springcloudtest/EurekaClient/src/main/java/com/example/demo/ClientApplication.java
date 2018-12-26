@@ -23,7 +23,7 @@ public class ClientApplication {
     @RequestMapping("/")
     public String getNewDate() {
         DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-DD HH:mm:ss");
-        return dateFormat.format(new Date());
+        return dateFormat.format(new Date()) + "222222222222222222";
     }
 
 }

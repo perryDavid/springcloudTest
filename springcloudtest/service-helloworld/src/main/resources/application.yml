@@ -1,0 +1,9 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:12365/eureka
+server:
+  port: 12370
+spring:
+  application:
+    name: SERVICE-HELLO

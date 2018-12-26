@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="service-helloworld:war">
+    <output-path>$PROJECT_DIR$/service-helloworld/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>service-helloworld</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="service-discover-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="service-helloworld:war exploded" />
+    </root>
+  </artifact>
+</component>
