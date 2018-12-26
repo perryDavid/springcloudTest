@@ -26,5 +26,11 @@ public class ClientApplication {
         return dateFormat.format(new Date()) + "222222222222222222";
     }
 
+    @RequestMapping("/user/index")
+    public String getIndex()
+    {
+        return  "wwwwwwwwwwwwwwwww";
+    }
+
 }
 

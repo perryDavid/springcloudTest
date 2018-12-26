@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/ConfigClient/pom.xml" />
         <option value="$PROJECT_DIR$/service-helloworld/pom.xml" />
         <option value="$PROJECT_DIR$/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-client/pom.xml" />
       </list>
     </option>
   </component>
