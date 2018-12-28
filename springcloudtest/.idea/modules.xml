@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/EurekaClient/service-hello.iml" filepath="$PROJECT_DIR$/EurekaClient/service-hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-helloworld/service-helloworld.iml" filepath="$PROJECT_DIR$/service-helloworld/service-helloworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine-service/turbine-service.iml" filepath="$PROJECT_DIR$/turbine-service/turbine-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-service/zuul-service.iml" filepath="$PROJECT_DIR$/zuul-service/zuul-service.iml" />
     </modules>
   </component>
 </project>

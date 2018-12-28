@@ -1,0 +1,20 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:12365/eureka
+server:
+  port: 18362
+spring:
+  application:
+    name: service-turbine
+turbine:
+  app-config: service-feign,service-ribbon
+  aggregator:        #聚合方式
+    cluster-config: default
+  cluster-name-expression: new String("default")
+  instanceUrlSuffix: actuator/hystrix.stream  #强行配置
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "hystrix.stream,/turbine.stream"
