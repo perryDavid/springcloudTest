@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/feign-client/pom.xml" />
         <option value="$PROJECT_DIR$/turbine-service/pom.xml" />
         <option value="$PROJECT_DIR$/zuul-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rebbit-service/pom.xml" />
       </list>
     </option>
   </component>

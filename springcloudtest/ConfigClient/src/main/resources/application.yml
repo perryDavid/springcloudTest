@@ -10,3 +10,8 @@ management:
 spring:
   application:
     name: config-client
+  rabbitmq:
+    host: localhost
+    username: david
+    password: 123456
+    virtual-host: david

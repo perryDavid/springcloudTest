@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ConfigServer" />
         <module name="feign-client" />
+        <module name="rebbit-service" />
         <module name="servce-config-client" />
         <module name="service-discover" />
         <module name="service-hello" />
@@ -20,6 +21,7 @@
     <bytecodeTargetLevel>
       <module name="ConfigServer" target="1.8" />
       <module name="feign-client" target="1.8" />
+      <module name="rebbit-service" target="1.8" />
       <module name="servce-config-client" target="1.8" />
       <module name="service-config-client" target="1.8" />
       <module name="service-discover" target="1.8" />
@@ -34,6 +36,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ConfigServer" options="-parameters" />
       <module name="feign-client" options="-parameters" />
+      <module name="rebbit-service" options="-parameters" />
       <module name="servce-config-client" options="-parameters" />
       <module name="service-config-client" options="-parameters" />
       <module name="service-discover" options="-parameters" />

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/feign-client/feign-client.iml" filepath="$PROJECT_DIR$/feign-client/feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebbit-service/rebbit-service.iml" filepath="$PROJECT_DIR$/rebbit-service/rebbit-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConfigClient/servce-config-client.iml" filepath="$PROJECT_DIR$/ConfigClient/servce-config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaServer/service-discover.iml" filepath="$PROJECT_DIR$/EurekaServer/service-discover.iml" />
       <module fileurl="file://$PROJECT_DIR$/EurekaClient/service-hello.iml" filepath="$PROJECT_DIR$/EurekaClient/service-hello.iml" />

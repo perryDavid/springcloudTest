@@ -1,0 +1,11 @@
+server:
+  port: 2036
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: david
+    password: 123456
+    virtual-host: david
+  application:
+    name: service-rebbitMQ
